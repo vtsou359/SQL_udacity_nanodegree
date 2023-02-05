@@ -30,5 +30,5 @@ a social media news aggregator site. Design a new,
 normalized and performant database and migrate over the data from the previously poorly designed database.
 
 <sub> *For more information click here: Program Syllabus,*</sub> 
-<sub> *or visit [Udacity Learn SQL ND](https://www.udacity.com/course/learn-sql--nd072)*</sub> 
+<sub> *or visit [Udacity SQL NanoDegree](https://www.udacity.com/course/learn-sql--nd072)*</sub> 
 
