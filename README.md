@@ -25,11 +25,11 @@ Master SQL, the core language for Big Data analysis and enable insight-driven de
 - Understand the tradeoffs between relational databases and their non-relational counterparts and justify which one is best for different scenarios.
 - With a radical shift of paradigms, learn about MongoDB and Redis to get an understanding of the differences in behaviors and requirements for non-relational databases.
 
-#### Project 2: Udiddit, A Social News Aggregator
+#### [Project 2: Udiddit, A Social News Aggregator](https://github.com/vtsou359/SQL_udacity_nanodegree/blob/main/SQL_Udiddit/udiddit-a-social-news-aggregator_vasileios_tsoumpris.pdf)
 
 Build the supporting data structure for Udiddit (similar to Reddit),
 a social media news aggregator site. Design a new,
-normalized and performant database and migrate over the data from the previously poorly designed database.
+normalized and performant database and migrate over, the data from the previously poorly designed database.
 
 <sub> *For more information click here: [Program Syllabus](https://github.com/vtsou359/SQL_udacity_nanodegree/blob/main/Programme_Syllabus/SQL%2BNanodegree%2BProgram%2BSyllabus.pdf),*</sub> 
 <sub> *or visit [Udacity SQL NanoDegree](https://www.udacity.com/course/learn-sql--nd072)*</sub> 
