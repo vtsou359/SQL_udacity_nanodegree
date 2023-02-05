@@ -1,5 +1,7 @@
 # SQL Udacity Nanodegree
+Master SQL, the core language for Big Data analysis and enable insight-driven decision-making and strategy for business.
 
+## Certificate of Completion
 
 ## Part 1 - Introduction to SQL
 
