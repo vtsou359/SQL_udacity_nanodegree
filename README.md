@@ -8,12 +8,12 @@
 - Clean data, optimize SQL queries and write select advanced JOINs to enhance analysis performance.
 - Explain which cases to use particular SQL commands and apply query results to address business problems.
 
- #### Project 1: Deforestation Exploration
+ #### [Project 1: Deforestation Exploration](https://github.com/vtsou359/SQL_udacity_nanodegree/blob/main/SQL_Deforestation_project/deforestation-exploration-project-template-vasileios_tsoumpris_v2.pdf)
  
 - Act as a Data Analyst for a non-profit organization on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
 - Prepare a report for the executive team to understand the global deforestation overview between 1990 and 2016.
 - Identifying the most concerning regions and countries experiencing severe drop in forest area to determine where to concentrate efforts to combat deforestation.
-- Techniques used: Create View, Table; Boolean Operators; Aggregations, Window Functions, Joins, CASE Statements etc.
+- Techniques used: Create View, Table; Boolean Operators; Aggregations, Window Functions, JOINs, CASE Statements etc.
 
 ## Part 2 - Management of Relational & Non-Relational Databases
 
@@ -29,6 +29,6 @@ Build the supporting data structure for Udiddit (similar to Reddit),
 a social media news aggregator site. Design a new,
 normalized and performant database and migrate over the data from the previously poorly designed database.
 
-<sub> *For more information click here: Program Syllabus,*</sub> 
+<sub> *For more information click here: [Program Syllabus](https://github.com/vtsou359/SQL_udacity_nanodegree/blob/main/Programme_Syllabus/SQL%2BNanodegree%2BProgram%2BSyllabus.pdf),*</sub> 
 <sub> *or visit [Udacity SQL NanoDegree](https://www.udacity.com/course/learn-sql--nd072)*</sub> 
 
